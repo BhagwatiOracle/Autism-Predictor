@@ -72,7 +72,7 @@ Different Machine Learning algorithims are trained on data -
 
 ## 4. Hyperparameter Tuning
 
-- Used GridSearchCV and RandomizedSearchCV to tune differnt parameters.
+- Used GridSearchCV and RandomizedSearchCV to tune different parameters.
 
 ## 5. Evaluation
 
